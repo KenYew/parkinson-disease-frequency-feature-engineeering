@@ -2,13 +2,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/d/d1/University_College_London_logo.svg/1280px-University_College_London_logo.svg.png" width="400px" align = "left"/>
 </div>
 <br>
+
 # Feature Engineering for Detection of Parkinson Disease Severity with Motion Sensor Arrays
 ## Frequency Domain Data Analysis
-`
+```tex
 Last Modified: 30th Jul 2020
 Author: Ken Yew Piong
 Department: MEng Electronic Engineering with Computer Science
-`
+```
 ### Description:
 #### This is a standalone tool for frequency domain data analysis with the following features: 
 ```tex
