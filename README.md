@@ -4,8 +4,8 @@
 # Feature Engineering for Detection of Parkinson Disease Severity with Motion Sensor Arrays
 ## Frequency Domain Data Analysis
 `
-Last Modified: 30th Jul 2020<br>
-Author: Ken Yew Piong<br>
+Last Modified: 30th Jul 2020
+Author: Ken Yew Piong
 Department: MEng Electronic Engineering with Computer Science
 `
 ### Description:
